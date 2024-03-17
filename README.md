@@ -1,5 +1,5 @@
 # ValoTrack
-A simple Valorant match tracker made by gookieAT & Vesturo
+A simple Valorant match tracker made by gookie & Vesturo
 
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
